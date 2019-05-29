@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="profile">Profile</string>
+    <string name="search_job">Search Job</string>
+    <string name="notification">Notification</string>
+    <string name="messages">Messages</string>
+    <string name="rate_card">Rate Card</string>
+    <string name="review">Review</string>
+</resources>
